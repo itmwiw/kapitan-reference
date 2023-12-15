@@ -12,6 +12,7 @@
 |[kapicorp-terraform-admin](../kapicorp-terraform-admin/docs/README.md)|
 |[keda](../keda/docs/README.md)|
 |[mysql](../mysql/docs/README.md)|
+|[nginx-from-chart](../nginx-from-chart/docs/README.md)|
 |[postgres-proxy](../postgres-proxy/docs/README.md)|
 |[pritunl](../pritunl/docs/README.md)|
 |[prod-sockshop](../prod-sockshop/docs/README.md)|
